@@ -1,0 +1,1 @@
+readmt in basics shell
